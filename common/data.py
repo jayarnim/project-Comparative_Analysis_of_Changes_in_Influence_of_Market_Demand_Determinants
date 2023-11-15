@@ -1,10 +1,27 @@
 # After Cleansing
-# 0-0_MERGE
+# MERGE
 PATH_DF_MERGE = "https://media.githubusercontent.com/media/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/df_merge.csv"
 
-# 0-1_DROP
-PATH_DF_DROP = ""
+# PARSED
+PATH_FOOD = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/FOOD.csv"
+PATH_ACADEMY = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/ACADEMY.csv"
+PATH_HOSPITAL = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/HOSPITAL.csv"
+PATH_LAW = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/LAW.csv"
+PATH_LEISURE = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/LEISURE.csv"
+PATH_CAR = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/CAR.csv"
+PATH_BEAUTY = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/BEAUTY.csv"
+PATH_MARKET = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/MARKET.csv"
+PATH_SERVICE = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/SERVICE.csv"
+PATH_SPORTS = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/SPORTS.csv"
+PATH_APPLIANCE = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/APPLIANCE.csv"
+PATH_ETC = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/ETC.csv"
 
+# PARSED LIST
+PARSEDLIST = [
+    PATH_FOOD, PATH_ACADEMY, PATH_HOSPITAL, PATH_LAW, PATH_LEISURE,
+    PATH_CAR, PATH_BEAUTY, PATH_MARKET, PATH_SERVICE, PATH_SPORTS,
+    PATH_APPLIANCE, PATH_ETC
+    ]
 
 # Raw Data Set
 # 상주인구
