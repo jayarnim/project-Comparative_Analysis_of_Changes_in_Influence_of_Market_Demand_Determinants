@@ -1,5 +1,5 @@
 # PARSED
-PATH_ALL = ""
+PATH_ALL = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/ALL.csv"
 PATH_FOOD = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/FOOD.csv"
 PATH_ACADEMY = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/ACADEMY.csv"
 PATH_HOSPITAL = "https://raw.githubusercontent.com/jayarnim/project-Comparative_Analysis_of_Changes_in_Influence_of_Market_Demand_Determinants/main/data/HOSPITAL.csv"
